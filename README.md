@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvaro Ivan DA Pena Gonzalez</h1>
+<h1 align="center">Hi 👋, I'm Alvaro Ivan Da Pena Gonzalez</h1>
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 - 🔭 I’m currently working on **Maxisalud**
