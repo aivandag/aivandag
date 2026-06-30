@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alvaro Ivan Da Pena Gonzalez</h1>
 
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
 <ul>
   <li>🔭 I’m currently working on <strong>Maxisalud</strong></li>
