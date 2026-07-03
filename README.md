@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Full Stack developer from Venezuela</h3>
 
 <ul>
-  <li>🔭 I’m currently working on <strong>Maxisalud</strong></li>
   <li>📫 How to reach me <strong><a href="mailto:alvarodgon7@gmail.com">alvarodgon7@gmail.com</a></strong></li>
 </ul>
 
